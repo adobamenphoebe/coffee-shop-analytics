@@ -55,7 +55,7 @@ coffee-shop-analytics/
 └── README.md
 ```
 
-### ✍️ Author  
+
 **Phoebe Adobamen**  
 B.S. Economics & Data Science, Drexel University  
 [LinkedIn](https://www.linkedin.com/in/phoebeadobamen) | [GitHub](https://github.com/adobamenphoebe)
